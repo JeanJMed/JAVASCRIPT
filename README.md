@@ -1,2 +1,2 @@
 # JAVASCRIPT
- Curso de JavaScript - Guanabara
+ Curso de JavaScript - Alura Mid
